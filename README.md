@@ -43,3 +43,7 @@ chmod +x digits.sh
 ```
 
 Press `Ctrl+C` at any time to stop playback—the exit trap will automatically restore your cursor, reset colors, and clear the terminal.
+
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/148fae6c-9db9-4e46-b3f4-d796b57fc550" />
+<img width="1125" height="541" alt="image" src="https://github.com/user-attachments/assets/51f6ade4-6f96-4acd-9eee-51a9aaaf8b14" />
+
